@@ -27,6 +27,7 @@
   </div>
   <hr>
   
+  ${massMessage}
   
 </div>
 
